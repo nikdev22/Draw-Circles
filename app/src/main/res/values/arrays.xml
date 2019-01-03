@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="custom_colors">
+        <item>#FF0000</item>
+        <item>#FFA500</item>
+        <item>#FFFF00</item>
+        <item>#008000</item>
+        <item>#00FFFF</item>
+        <item>#0000FF</item>
+        <item>#FF00FF</item>
+        <item>#FFC0CB</item>
+        <item>#000000</item>
+    </array>
+</resources>
